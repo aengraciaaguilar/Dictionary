@@ -9,3 +9,6 @@ print("1. -> Add an Item")
 print("2. -> Search")
 print("3. -> Exit (y/n?)")
 
+# this is to create a dictionary
+contactdictionary = {}
+
